@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://thethanchet:tieuthichu@keebtester-cluster.urgo6.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "baseURL": "https://"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "type-your-keeb",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/thetrinh16698/type-your-keeb.git",
+  "author": "thetrinh16698 <thetrinh166@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.5",
+    "socket.io": "^2.3.0"
+  }
+}
